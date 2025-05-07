@@ -24,4 +24,6 @@ GET /api/credentials/generate for credential
 | IPV4_CREDENTIAL_GENERATE_RATE_LIMITER | for /32 IPv4 | not set, but necessary |
 | IPV6_CREDENTIAL_GENERATE_RATE_LIMITER | for /64 IPv6 | not set, but necessary |
 
+add cron for egress usage check and limit
+
 credit to Claude 3.7 Sonnet
