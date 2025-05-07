@@ -1,6 +1,6 @@
 Simple Worker to issue Cloudflare TURN Credential
 
-```json
+```text
 ->
 GET /api/credentials/generate for credential
 
