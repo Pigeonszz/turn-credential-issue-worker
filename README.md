@@ -6,9 +6,9 @@ GET /api/credentials/generate for credential
 
 <-
 {
+  "urls": "turn:turn.cloudflare.com:3478",
   "username": "xxx",
-  "credential": "yyy",
-  "ttl": $CREDENTIAL_TTL
+  "credential": "yyy"
 }
 ```
 
